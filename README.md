@@ -6,7 +6,7 @@ This project uses collaborative filtering to build a basic recommender system us
 
 ## 📁 Dataset
 
-Two files:
+Two files: Download them here - https://www.kaggle.com/datasets/ashukr/movie-rating-data?select=ratings.csv
 - `ratings.csv`: User ratings for movies
 - `movies.csv`: Metadata (title, genres)
 
