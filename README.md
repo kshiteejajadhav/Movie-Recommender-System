@@ -47,8 +47,9 @@ Two files:
 ## 🚀 How to Run
 
 1. Clone the repo  
-2. Install dependencies:
+2. Install dependenciesand run:
    ```bash
    pip install -r requirements.txt
- 3. Run the notebook :
-    jupyter notebook notebooks/movie_recommender.ipynb
+   #Run
+   jupyter notebook notebooks/movie_recommender.ipynb
+
